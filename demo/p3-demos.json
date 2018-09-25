@@ -4,7 +4,7 @@
     {
       "name": "Basics",
       "url": "button-basic-demos",
-      "src": "button-basic-demos.html",
+      "src": "button-basic-demos.js",
       "meta": {
         "title": "Vaadin Button Basic Examples",
         "description": "",
@@ -14,7 +14,7 @@
     {
       "name": "Accessibility",
       "url": "button-accessibility-demos",
-      "src": "button-a11y-demos.html",
+      "src": "button-a11y-demos.js",
       "meta": {
         "title": "Vaadin Button Accessibility",
         "description": "",
@@ -24,7 +24,7 @@
     {
       "name": "Theme Variants",
       "url": "button-theme-variants-demos",
-      "src": "button-theme-variants-demos.html",
+      "src": "button-theme-variants-demos.js",
       "meta": {
         "title": "Vaadin Button Theme Variants",
         "description": "",
