@@ -1,7 +1,7 @@
 import {
   PolymerElement,
   html
-} from '../node_modules/@polymer/polymer/polymer-element.js';
+} from '/node_modules/@polymer/polymer/polymer-element.js';
 
 /**
  * `button-theme-variants-demos`
