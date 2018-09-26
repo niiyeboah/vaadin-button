@@ -1,8 +1,10 @@
 {
-  "rules": {
-  },
+  "rules": {},
   "globals": {
     "ButtonDemo": false,
     "DemoReadyEventEmitter": false
+  },
+  "parserOptions": {
+    "sourceType": "module"
   }
 }
